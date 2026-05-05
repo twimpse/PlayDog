@@ -5,3 +5,9 @@ Go to file menu Tools->Preferences or press Ctrl+p
 Go to the Advanced Settings tab
 
 Go to Interface -> Main Interfaces
+
+Enable lua interface 
+Select Interface Module: lua
+
+Expand the Main Interfaces tab
+Set a lua password for the interfacee
