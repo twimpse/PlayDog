@@ -1,6 +1,6 @@
 Document: playdog
 Title: Debian playdog Manual
-Author: <insert document author here>
+Author: Concept-Peter
 Abstract: This manual describes what playdog is
  and how it can be used to
  manage online manuals on Debian systems.
