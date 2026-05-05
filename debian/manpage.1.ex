@@ -1,5 +1,5 @@
 .\"                                      Hey, EMACS: -*- nroff -*-
-.\" (C) Copyright 2026 unknown <debpkg@twimp.se>,
+.\" (C) Copyright 2026 Concept-Peter <debpkg@twimp.se>,
 .\"
 .\" First parameter, NAME, should be all caps
 .\" Second parameter, SECTION, should be 1-8, maybe w/ subsection
@@ -18,7 +18,7 @@
 .\" .sp <n>    insert n+1 empty lines
 .\" for manpage-specific macros, see man(7)
 .SH NAME
-playdog \- program to do something
+playdog \- VLC Playlist Creator and Playlist File Manipulator
 .SH SYNOPSIS
 .B playdog
 .RI [ options ] " files" ...

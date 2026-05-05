@@ -1,19 +1,18 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Source: <url://example.com>
+Source: https://github.com/twimpse/PlayDog
 Upstream-Name: playdog
-Upstream-Contact: <preferred name and address to reach the upstream project>
+Upstream-Contact: Concept-Peter <debpkg@twimpse>
 
 Files:
  *
 Copyright:
- <years> <put author's name and email here>
- <years> <likewise for another author>
+ 2025 Concept-Peter <debpkg@twimp.se>
 License: GPL-3.0+
 
 Files:
  debian/*
 Copyright:
- 2026 unknown <debpkg@twimp.se>
+ 2026 Concept-Peter <debpkg@twimp.se>
 License: GPL-3.0+
 
 License: GPL-3.0+
