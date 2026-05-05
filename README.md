@@ -6,6 +6,8 @@ PlayScribe will create a VLC compatable playlist using a directory as an input.
 
 PlayDog will remove files that have been played in VLC from the playlist. 
 
+Useful if you have a large directory of clips and want to be able to only watch the clips that you haven't yet seen. 
+
 ## Usage
 PlayScribe-0.3.0.py [-h] (-f FILELIST | -d DIRECTORY) [-o OUTPUT] [--shuffle] [--min-size MIN_SIZE] [--max-size MAX_SIZE] [--relative] [--newer-than NEWER_THAN] [--since SINCE] [--exclude-from EXCLUDE_FROM] [--verbose]
 
