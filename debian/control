@@ -1,0 +1,20 @@
+Source: playdog
+Section: unknown
+Priority: optional
+Maintainer: unknown <debpkg@twimp.se>
+Rules-Requires-Root: no
+Build-Depends:
+ debhelper-compat (= 13),
+Standards-Version: 4.6.2
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Browser: https://salsa.debian.org/debian/playdog
+#Vcs-Git: https://salsa.debian.org/debian/playdog.git
+
+Package: playdog
+Architecture: any
+Multi-Arch: foreign
+Depends:
+ ${shlibs:Depends},
+ ${misc:Depends},
+Description: <insert up to 60 chars description>
+ <Insert long description, indented with spaces.>

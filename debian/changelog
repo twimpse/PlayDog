@@ -1,0 +1,5 @@
+playdog (0.6.0-1) UNRELEASED; urgency=medium
+
+  * Initial release. (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- unknown <debpkg@twimp.se>  Tue, 05 May 2026 21:12:38 +0200
