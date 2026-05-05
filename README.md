@@ -12,5 +12,5 @@ PlayScribe-0.3.0.py [-h] (-f FILELIST | -d DIRECTORY) [-o OUTPUT] [--shuffle] [-
 PlayDog-0.6.0.py [-h] --playlist PLAYLIST [--host HOST] [--port PORT] [--password PASSWORD] [--interval INTERVAL] [--verbose] [--debug] [--dry-run] [--shuffle]
 
 ## Versions
-PlayDog v0.6.0
-PlayScribe v0.3.0
+PlayDog v0.6.0  
+PlayScribe v0.3.0  
