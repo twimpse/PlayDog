@@ -1,0 +1,7 @@
+# Instructions for how to setup the VLC interface
+
+Go to file menu Tools->Preferences or press Ctrl+p
+
+Go to the Advanced Settings tab
+
+Go to Interface -> Main Interfaces
