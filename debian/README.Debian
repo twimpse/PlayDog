@@ -1,6 +1,10 @@
 playdog for Debian
 -----------------
 
-<Possible notes regarding this package - if none, delete this file.>
+PlayScribe will create a VLC compatable playlist using a directory as an input.
 
- -- unknown <debpkg@twimp.se>  Tue, 05 May 2026 21:12:38 +0200
+PlayDog will remove files that have been played in VLC from the playlist.
+
+Useful if you have a large directory of clips or videos and want to be able to only watch the clips that you haven't yet seen.
+
+ -- Concept-Peter <debpkg@twimp.se>  Tue, 05 May 2026 21:12:38 +0200
